@@ -58,6 +58,8 @@ Here we have our landing page, which helps us to give general information about 
 in the correct way to use our application. It also gives real-time data of the price of Solana and Helium
 through the Coinmarketcap API.
 
+<img src="https://i.ibb.co/pxgNrdC/image1.png">
+
 You can start the application by clicking on the button in the corner that will take us to the menu to be able to swap between Solana and Helium.
 In order to access the services to add IoT devices, we must connect our wallet for security reasons. Thus adding an additional layer of confidence.
 After connecting the wallet, we can now see the devices and the last messages of the device.
