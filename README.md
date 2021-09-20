@@ -33,13 +33,20 @@ Blockchain can Bring to the table Decentralization of data, added Security, whic
 
 # Solution
 
+<img src="https://i.ibb.co/sqW7pxN/Gif1.gif"> 
+
 Enter the Kharon project, we aim to bring forth all of the previously discussed benefits by joining IoT and Blockchain, but without the downside.
 
 This is achieved by focusing on Interoperability between blockchains.
 
+<img src="https://i.ibb.co/b5LPXB3/Gif2.gif">
+
 Namely the Solana blockchain with its speed and ease of development and the huge infrastructure of the Helium Network with its more than one hundred and eighty thousand LoRa Hotspots around the world.
 
 Kharon provides a way to connect between these two chains, provides Machine to Machine economics through our OBOL token, and several services to businesses and enterprises such as provenance and asset tracking.
+
+<img src="https://i.ibb.co/fdK78Zg/Gif3.gif">
+
 
 Now let’s go to our Demo of Kharon Protocol.
 
