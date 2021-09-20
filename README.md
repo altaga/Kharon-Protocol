@@ -33,7 +33,7 @@ Blockchain can Bring to the table Decentralization of data, added Security, whic
 
 # Solution
 
-<img src="https://i.ibb.co/sqW7pxN/Gif1.gif"> 
+<img src="https://i.ibb.co/sqW7pxN/Gif1.gif" width="400"> 
 
 Enter the Kharon project, we aim to bring forth all of the previously discussed benefits by joining IoT and Blockchain, but without the downside.
 
