@@ -39,13 +39,13 @@ Enter the Kharon project, we aim to bring forth all of the previously discussed 
 
 This is achieved by focusing on Interoperability between blockchains.
 
-<img src="https://i.ibb.co/MsWHqpL/Gif2.gif">
+<img src="https://i.ibb.co/MsWHqpL/Gif2.gif" width="400">
 
 Namely the Solana blockchain with its speed and ease of development and the huge infrastructure of the Helium Network with its more than one hundred and eighty thousand LoRa Hotspots around the world.
 
 Kharon provides a way to connect between these two chains, provides Machine to Machine economics through our OBOL token, and several services to businesses and enterprises such as provenance and asset tracking.
 
-<img src="https://i.ibb.co/fdK78Zg/Gif3.gif">
+<img src="https://i.ibb.co/0Zn6VpK/Gif3.gif" width="400">
 
 
 Now let’s go to our Demo of Kharon Protocol.
