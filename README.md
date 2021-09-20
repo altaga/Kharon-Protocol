@@ -25,10 +25,13 @@ https://main.d5j7ur8wksocu.amplifyapp.com/
 
 <hr>
 
+# Introduction and Problem Statement
 
 IoT comes with several  use cases in different sectors, however, its wider application is caught sometimes behind security concerns over data storage or on the device itself. Will combining it with blockchain be the answer to all its woes? Our answer is yes, as the projects trying to tackle these problems surely reflect. But they all come with their set of drawbacks that must be tackled along the way.
 
 Blockchain can Bring to the table Decentralization of data, added Security, which is perhaps one of the greatest woes of IoT. Transparency: as anyone would be able to check the blockchain at any time. Autonomy, as the Blockchain reinforces machine to machine economies through a token. And reduced costs as there are already great projects around with huge infrastructure.
+
+# Solution
 
 Enter the Kharon project, we aim to bring forth all of the previously discussed benefits by joining IoT and Blockchain, but without the downside.
 
