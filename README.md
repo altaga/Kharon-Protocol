@@ -72,6 +72,8 @@ We have a socially responsible blockchain marketplace hosted and live. It will l
 
 Then we have our Blockchain provenance service. This works with QR codes as you can see and as we scan the product it sends us directly to the blockchain, where we can see all the information we require about said product. We are using the Solana blockchain for this application because of its speed and the fact that it is public so the consumer can check the provenance of the product and keep track of where it has been.
 
+<img src="https://i.ibb.co/tpHLSyw/image3.png">
+
 Kharon Protocol is then like a Shopify with Blockchain meets Supply chain with Blockchain, but focused only on interoperability. We are not trying to create infrastructure nor a whole new blockchain. By focusing on only these, we do more!
 
 
