@@ -76,7 +76,7 @@ Kharon Protocol is then like a Shopify with Blockchain meets Supply chain with B
 
 Now, this kind of application has already reached Several places and markets around the world such as wine, luxury, beauty and others. It is for example heavily deployed by Walmart China.
 
-<img src="https://i.ibb.co/P9PB14L/Slide19.png">
+<img src="https://i.ibb.co/G0t39Wj/valid.png">
 
 Our team comes from a diverse background but we now have around 15 years of combined IoT development experience and are exploring the IoT plus blockchain space.
  
