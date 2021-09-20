@@ -2,6 +2,10 @@
 
 Socials:
 
+https://www.facebook.com/KharonProtocol
+
+https://twitter.com/KharonProtocol
+
 # Kharon-Protocol
 
 <img src="https://i.ibb.co/YkgTT6s/k1.png">
