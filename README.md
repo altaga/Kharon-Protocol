@@ -31,7 +31,7 @@ IoT comes with several  use cases in different sectors, however, its wider appli
 
 Blockchain can Bring to the table Decentralization of data, added Security, which is perhaps one of the greatest woes of IoT. Transparency: as anyone would be able to check the blockchain at any time. Autonomy, as the Blockchain reinforces machine to machine economies through a token. And reduced costs as there are already great projects around with huge infrastructure.
 
-<img src="https://i.ibb.co/sKz6VG8/vlcsnap-2021-09-20-15h03m45s076.png">
+<img src="https://i.ibb.co/sKz6VG8/vlcsnap-2021-09-20-15h03m45s076.png" width="400">
 
 # Solution
 
@@ -79,8 +79,6 @@ Now, this kind of application has already reached Several places and markets aro
 <img src="https://i.ibb.co/P9PB14L/Slide19.png">
 
 Our team comes from a diverse background but we now have around 15 years of combined IoT development experience and are exploring the IoT plus blockchain space.
-
- 
  
  
 # Token economics (OBOL)
