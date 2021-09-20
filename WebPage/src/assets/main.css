@@ -1,0 +1,277 @@
+html {
+  background: #131a35;
+}
+
+.landing-page {
+  background-image: url("../assets/background-test.png");
+  background-size: 100% 400vh;
+  color: #fff;
+  padding: 0;
+  margin: 0;
+  height: 400vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.Resp{
+  font-size: xx-large;
+}
+
+.header-element{
+  position: absolute;
+  top: 7.4%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.logo-element{
+  position: absolute;
+  width: auto;
+  height: 40px;
+  top: 4%;
+  left: 5%;
+  transform: translate(-50%, -50%);
+}
+
+.logo-element-landing{
+  position: absolute;
+  width: auto;
+  height: 40px;
+  top: 9%;
+  left: 16.5%;
+  transform: translate(-50%, -50%);
+}
+
+.logo-element-landing-bottom{
+  position: absolute;
+  width: auto;
+  height: 40px;
+  top: 396%; 
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.logo-text-element-landing-bottom{
+  position: absolute;
+  font-size: large;
+  top: 400%;
+  left: 50%;
+  color: white;
+  transform: translate(-50%, -50%);
+}
+
+.logo-text-element-landing{
+  position: absolute;
+  font-size: large;
+  top: 12.5%;
+  left: 16.2%;
+  color: white;
+  transform: translate(-50%, -50%);
+}
+
+.landing-button{
+  position: absolute;
+  font-size: large;
+  background: #fff;
+  top: 10%;
+  right: 4%;
+  color: white;
+  transform: translate(-50%, -50%);
+}
+
+.logo-footer-element{
+  position: absolute;
+  width: auto;
+  height: 40px;
+  bottom: 1.8%;
+  left: 5%;
+  transform: translate(-50%, -50%);
+}
+
+.button-element{
+  position: absolute;
+  top: 5%;
+  right: 0%;
+  transform: translate(-50%, -50%);
+}
+
+.logo-text-element{
+  position: absolute;
+  font-size: large;
+  top: 7.5%;
+  left: 5.4%;
+  color: white;
+  transform: translate(-50%, -50%);
+}
+
+.logo-text-footer-element{
+  position: absolute;
+  font-size: large;
+  bottom: 0%;
+  left: 5.4%;
+  color: white;
+  transform: translate(-50%, -50%);
+}
+
+.logo-f-text-footer-element{
+  position: absolute;
+  font-size: large;
+  bottom: 2%;
+  left: 50%;
+  color: white;
+  transform: translate(-50%, -50%);
+}
+
+.logo-text-footer-element-right{
+  position: absolute;
+  font-size: large;
+  bottom: -1%;
+  left: 90%;
+  color: white;
+  transform: translate(-50%, -50%);
+}
+
+.body-element{
+  position: absolute;
+  top: 53%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  min-width: 30vw; 
+  min-height: 40vh;
+  height: 70vh;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.body-element2{
+  position: absolute;
+  min-width: 30vw; 
+  min-height: 40vh;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.body-element3{
+  position: absolute;
+  min-width: 80vw; 
+  min-height: 40vh;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.footer-element{
+  position: absolute;
+  bottom: 10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.example::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.example {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.ele {
+  background-color: #ff6699;
+  animation: 1s fadeIn;
+  animation-fill-mode: forwards;
+  
+  visibility: hidden;
+}
+
+.ele:hover {
+  background-color: #123;
+}
+
+@keyframes fadeIn {
+  99% {
+    visibility: hidden;
+  }
+  100% {
+    visibility: visible;
+  }
+}
+
+.myhr-header{
+  position: absolute;
+  top: 10%;
+  height: 1px; 
+  width: 100%;
+  background: linear-gradient(90deg, rgba(90, 196, 190, 0) 0%, rgb(55, 114, 255) 50%, rgba(194, 0, 251, 0) 100%);
+}
+
+.myhr-header2{
+  height: 1px; 
+  width: 100%;
+  background: linear-gradient(90deg, rgba(90, 196, 190, 0) 0%, rgb(55, 114, 255) 50%, rgba(194, 0, 251, 0) 100%);
+}
+
+.myhr-header2{
+  height: 1px; 
+  width: 100%;
+  background: linear-gradient(90deg, rgba(90, 196, 190, 0) 0%, rgb(55, 114, 255) 50%, rgba(194, 0, 251, 0) 100%);
+}
+
+.myhr-header3{
+  height: 1px; 
+  width: 80%;
+  background: linear-gradient(90deg, rgba(90, 196, 190, 0) 0%, rgb(55, 114, 255) 50%, rgba(194, 0, 251, 0) 100%);
+}
+
+.myhr-footer{
+  position: absolute;
+  bottom: 10%;
+  height: 1px; 
+  width: 100%;
+  background: linear-gradient(90deg, rgba(90, 196, 190, 0) 0%, rgb(55, 114, 255) 50%, rgba(194, 0, 251, 0) 100%);
+}
