@@ -8,7 +8,7 @@ https://twitter.com/KharonProtocol
 
 # Kharon-Protocol
 
-<img src="https://i.ibb.co/YkgTT6s/k1.png">
+<img src="https://i.ibb.co/YkgTT6s/k1.png" width="400">
  
 Welcome to Kharon Protocol.
 
