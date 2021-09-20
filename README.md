@@ -1,13 +1,25 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [<img src="https://img.shields.io/badge/View-Website-blue">](https://main.d5j7ur8wksocu.amplifyapp.com/) [<img src="https://img.shields.io/badge/View-Slides-red">](https://devpost.com/software/chia-dollar) [<img src="https://img.shields.io/badge/View-Video-red">](https://youtu.be/ElkMgnFPETM)
+
+Socials:
+
 # Kharon-Protocol
 
 <img src="https://i.ibb.co/YkgTT6s/k1.png">
  
 Welcome to Kharon Protocol.
 
-Kharon aims to power-up businesses and enterprises by connecting blockchains with IoT.  
+### Kharon aims to power-up businesses and enterprises by connecting blockchains with IoT.  
 
 This is our submission for the Business Hackathon powered by TDeFi.
 
+#### Click here to watch our demo video:
+
+[<img src="https://raw.githubusercontent.com/altaga/SCUP-WWAC/master/Images/click-here-button.png" width=200>](https://youtu.be/ElkMgnFPETM)
+
+### To test the product follow this link (Over here Tech judges!):
+https://main.d5j7ur8wksocu.amplifyapp.com/
+
+<hr>
 
 
 IoT comes with several  use cases in different sectors, however, its wider application is caught sometimes behind security concerns over data storage or on the device itself. Will combining it with blockchain be the answer to all its woes? Our answer is yes, as the projects trying to tackle these problems surely reflect. But they all come with their set of drawbacks that must be tackled along the way.
