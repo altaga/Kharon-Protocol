@@ -47,8 +47,7 @@ Namely the Solana blockchain with its speed and ease of development and the huge
 
 Kharon provides a way to connect between these two chains, provides Machine to Machine economics through our OBOL token, and several services to businesses and enterprises such as provenance and asset tracking.
 
-<img src="https://i.ibb.co/0Zn6VpK/Gif3.gif" width="400">
-
+<img src="https://i.ibb.co/MfMQyvg/Gif3-2.gif" width="400">
 
 Now let’s go to our Demo of Kharon Protocol.
 
@@ -96,6 +95,25 @@ Coming soon.....
 Coming soon.....
 
 # Technology Stack
+
+<img src="https://i.ibb.co/RNzfV0z/diagram.png">
+
+- Helium Network - LoraWAN Main Service.
+  - https://www.helium.com/
+- AWS EC2 - NodeJS Express Server
+  - https://aws.amazon.com/ec2/
+- Solana Cli - Interaction with Solana.
+  - https://docs.solana.com/cli
+- AWS API Gateway - Interaction with WebPage.
+  - https://aws.amazon.com/es/api-gateway/
+- AWS Amplify - CI/CD service.
+  - https://aws.amazon.com/es/amplify/
+- Github - Code Storage
+  - https://github.com/
+- CoinMarketCap API - Cryptocurrencies Real Time Value. 
+  - https://coinmarketcap.com/
+- Phantom Wallet - WebPage Credentials Provider.
+  - https://phantom.app/
 
 # Acknowledgements and References
 
