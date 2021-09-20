@@ -65,6 +65,8 @@ In order to access the services to add IoT devices, we must connect our wallet f
 After connecting the wallet, we can now see the devices and the last messages of the device.
 Now by entering the signature, that will direct us to the Solana Explorer where we can see that indeed the transaction is input into Solana's devnet.
 
+<img src="https://i.ibb.co/gmkQn6t/imagen3.png">
+
 
 Now we would like to present how a company may use Kharon Protocol for their business in a real use case.
 
