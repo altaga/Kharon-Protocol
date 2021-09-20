@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [<img src="https://img.shields.io/badge/View-Website-blue">](https://main.d5j7ur8wksocu.amplifyapp.com/) [<img src="https://img.shields.io/badge/View-Slides-red">](https://devpost.com/software/chia-dollar) [<img src="https://img.shields.io/badge/View-Video-red">](https://youtu.be/ElkMgnFPETM)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [<img src="https://img.shields.io/badge/View-Website-blue">](https://main.d5j7ur8wksocu.amplifyapp.com/) [<img src="https://img.shields.io/badge/View-Slides-red">]() [<img src="https://img.shields.io/badge/View-Video-red">](https://youtu.be/ElkMgnFPETM)
 
 Socials:
 
