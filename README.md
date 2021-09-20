@@ -3,7 +3,7 @@
  
  
  
-# Token economics
+# Token economics (OBOL)
 
 Coming soon.....
 
