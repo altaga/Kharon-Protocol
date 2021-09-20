@@ -39,7 +39,7 @@ Enter the Kharon project, we aim to bring forth all of the previously discussed 
 
 This is achieved by focusing on Interoperability between blockchains.
 
-<img src="https://i.ibb.co/b5LPXB3/Gif2.gif">
+<img src="https://i.ibb.co/MsWHqpL/Gif2.gif">
 
 Namely the Solana blockchain with its speed and ease of development and the huge infrastructure of the Helium Network with its more than one hundred and eighty thousand LoRa Hotspots around the world.
 
