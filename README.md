@@ -79,7 +79,11 @@ Now, this kind of application has already reached Several places and markets aro
 <img src="https://i.ibb.co/G0t39Wj/valid.png">
 
 Our team comes from a diverse background but we now have around 15 years of combined IoT development experience and are exploring the IoT plus blockchain space.
- 
+
+
+# Market analysis
+
+Coming soon.....
  
 # Token economics (OBOL)
 
