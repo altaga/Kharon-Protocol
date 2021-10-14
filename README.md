@@ -115,6 +115,8 @@ Coming soon.....
 - Phantom Wallet - WebPage Credentials Provider.
   - https://phantom.app/
 
+## We have been testing our IoT bridge for 2 months now without interruption!!
+
 # Acknowledgements and References
 
 https://www.trendmicro.com/vinfo/mx/security/news/internet-of-things/blockchain-the-missing-link-between-security-and-the-iot
