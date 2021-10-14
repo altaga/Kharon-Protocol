@@ -115,7 +115,7 @@ Coming soon.....
 - Phantom Wallet - WebPage Credentials Provider.
   - https://phantom.app/
 
-## We have been testing our IoT bridge for 2 months now without interruption!!
+## We have been testing our IoT bridge for 1 month now without interruption!!
 
 # Acknowledgements and References
 
