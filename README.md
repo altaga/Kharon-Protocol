@@ -54,20 +54,20 @@ Kharon provides a way to connect between these two chains, provides Machine to M
 Now let’s go to our Demo of Kharon Protocol.
 
 First of all, our page is already online and you can visit it without problem.
-The page is deployed with AWS amplify to facilitate its scalability.
+The page is deployed with Azure DevOps to facilitate its scalability.
 Here we have our landing page, which helps us to give general information about the project and direct the user
 in the correct way to use our application. It also gives real-time data of the price of Solana and Helium
 through the Coinmarketcap API.
 
-<img src="https://i.ibb.co/pxgNrdC/image1.png">
+<img src="https://i.ibb.co/PgrPqJr/1.png" width="49.7%">
+<img src="https://i.ibb.co/r00G0p5/2.png" width="49.6%">
 
 You can start the application by clicking on the button in the corner that will take us to the menu to be able to swap between Solana and Helium.
 In order to access the services to add IoT devices, we must connect our wallet for security reasons. Thus adding an additional layer of confidence.
 After connecting the wallet, we can now see the devices and the last messages of the device.
 Now by entering the signature, that will direct us to the Solana Explorer where we can see that indeed the transaction is input into Solana's devnet.
 
-<img src="https://i.ibb.co/gmkQn6t/imagen3.png">
-
+<img src="https://i.ibb.co/VSvV4xq/3.png">
 
 Now we would like to present how a company may use Kharon Protocol for their business in a real use case.
 
@@ -98,18 +98,20 @@ Coming soon.....
 
 # Technology Stack
 
-<img src="https://i.ibb.co/RNzfV0z/diagram.png">
+<img src="https://i.ibb.co/LdmLCGs/diagram1.png">
+
+<hr/>
 
 - Helium Network - LoraWAN Main Service.
   - https://www.helium.com/
-- AWS EC2 - NodeJS Express Server
-  - https://aws.amazon.com/ec2/
+- Azure VM - NodeJS Express Server
+  - https://azure.microsoft.com/en-us/services/virtual-machines/
 - Solana Cli - Interaction with Solana.
   - https://docs.solana.com/cli
-- AWS API Gateway - Interaction with WebPage.
-  - https://aws.amazon.com/es/api-gateway/
-- AWS Amplify - CI/CD service.
-  - https://aws.amazon.com/es/amplify/
+- Azure API Management - Interaction with WebPage.
+  - https://azure.microsoft.com/en-us/services/api-management/
+- Azure VM - CI/CD service.
+  - https://azure.microsoft.com/en-us/services/virtual-machines/
 - Github - Code Storage
   - https://github.com/
 - CoinMarketCap API - Cryptocurrencies Real Time Value. 
