@@ -21,7 +21,9 @@ This is our submission for the Business Hackathon powered by TDeFi.
 [<img src="https://raw.githubusercontent.com/altaga/SCUP-WWAC/master/Images/click-here-button.png" width=200>](https://youtu.be/ElkMgnFPETM)
 
 ### To test the product follow this link (Over here Tech judges!):
-https://main.d5j7ur8wksocu.amplifyapp.com/
+https://kharonprotocol.com
+
+Go here also for some instructions:
 
 <hr>
 
