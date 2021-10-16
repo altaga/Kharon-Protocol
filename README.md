@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [<img src="https://img.shields.io/badge/View-Website-blue">](https://kharonprotocol.com) [<img src="https://img.shields.io/badge/View-Video-red">](https://youtu.be/ElkMgnFPETM)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [<img src="https://img.shields.io/badge/View-Website-blue">](https://kharonprotocol.com) [<img src="https://img.shields.io/badge/View-Video-red">](https://www.youtube.com/watch?v=wmbS8i05DD8)
 
 Socials:
 
@@ -18,7 +18,7 @@ This is our submission for the Ignition Solana Global Hackathon.
 
 #### Click here to watch our demo video:
 
-[<img src="https://raw.githubusercontent.com/altaga/SCUP-WWAC/master/Images/click-here-button.png" width=200>](https://youtu.be/ElkMgnFPETM)
+[<img src="https://raw.githubusercontent.com/altaga/SCUP-WWAC/master/Images/click-here-button.png" width=200>](https://www.youtube.com/watch?v=FE08cTZfyiQ)
 
 ### To test the product follow this link (Over here Tech judges!):
 
