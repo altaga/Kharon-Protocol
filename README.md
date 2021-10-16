@@ -14,7 +14,7 @@ Welcome to Kharon Protocol.
 
 ### Kharon aims to power-up businesses and enterprises by connecting blockchains with IoT.  
 
-This is our submission for the Business Hackathon powered by TDeFi.
+This is our submission for the Ignition Solana Global Hackathon.
 
 #### Click here to watch our demo video:
 
