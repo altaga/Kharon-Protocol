@@ -146,7 +146,7 @@ Coming soon.....
 
 And yes, we also support the Helium Network!
 
-<img src="https://i.ibb.co/BV1rpJf/nebra.jpg">
+<img src="https://i.ibb.co/BV1rpJf/nebra.jpg" width="400">
 
 From a long time ago!
 
