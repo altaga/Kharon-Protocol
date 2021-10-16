@@ -112,7 +112,7 @@ Coming soon.....
 
 # Potential impact for the Solana ecosystem.
 
-# Go to Market Strategy
+# Go to Market Strategy and Roadmap
 
 # Technology Stack
 
