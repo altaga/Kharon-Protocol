@@ -21,9 +21,16 @@ This is our submission for the Ignition Solana Global Hackathon.
 [<img src="https://raw.githubusercontent.com/altaga/SCUP-WWAC/master/Images/click-here-button.png" width=200>](https://youtu.be/ElkMgnFPETM)
 
 ### To test the product follow this link (Over here Tech judges!):
+
+You have to have a Phantom wallet installed!
+
+https://phantom.app/
+
 https://kharonprotocol.com
 
 Go here also for some instructions:
+
+https://github.com/altaga/Kharon-Protocol/tree/main/Testing
 
 <hr>
 
@@ -69,6 +76,8 @@ Now by entering the signature, that will direct us to the Solana Explorer where 
 
 <img src="https://i.ibb.co/VSvV4xq/3.png">
 
+# Use Cases
+
 Now we would like to present how a company may use Kharon Protocol for their business in a real use case.
 
 We have a socially responsible blockchain marketplace hosted and live. It will launch in the future and it has all the characteristics of any marketplace including payment systems.
@@ -77,8 +86,9 @@ Then we have our Blockchain provenance service. This works with QR codes as you 
 
 <img src="https://i.ibb.co/tpHLSyw/image3.png">
 
-Kharon Protocol is then like a Shopify with Blockchain meets Supply chain with Blockchain, but focused only on interoperability. We are not trying to create infrastructure nor a whole new blockchain. By focusing on only these, we do more!
+Kharon Protocol is then like a Shopify meets Supply chain with Blockchain, but focused only on interoperability. 
 
+We are not trying to create infrastructure nor are we just exporting something from web2 to web3. The IoT Helium network plus Solana through Kharon is 10 times better than incumbents!
 
 
 Now, this kind of application has already reached Several places and markets around the world such as wine, luxury, beauty and others. It is for example heavily deployed by Walmart China.
