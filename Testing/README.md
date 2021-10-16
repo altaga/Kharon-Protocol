@@ -23,6 +23,8 @@ Dev EUI: 6081F906D27BB9A7
 
 App EUI: 6081F98F4E3E1C48
 
+Disclaimer: This is only ONE device at a time, on our side we are eliminating constantly 
+
 # Device Setup:
 
 This step is not directly a configuration of our protocol, if you already have configured your device in the Helium network, please go to the [Integration Setup](#integration-setup) section.
