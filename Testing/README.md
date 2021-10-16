@@ -2,7 +2,9 @@
 
 # Kharon-Protocol-Testing:
 
-<img src="https://i.ibb.co/YkgTT6s/k1.png" width="400">
+## Please watch out video demo of an IoT device going through the steps to join Kharon!
+
+[<img src="https://raw.githubusercontent.com/altaga/SCUP-WWAC/master/Images/click-here-button.png" width=200>](https://youtu.be/FE08cTZfyiQ)
  
 Bienvenido a la seccion testing de Kharon Protocol, en esta seccion podras encontrar los pasos para configurar Kharon protocol en Helium console.
 
