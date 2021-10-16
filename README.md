@@ -123,13 +123,22 @@ Reference: https://www.ey.com/es_mx/consumer-products-retail/cadena-de-frio-en-m
 
 # Market analysis
 
-Coming soon.....
+
 
 # Potential impact for the Solana ecosystem.
 
 The project is still in its early stages, but we already have an almost ready-to-launch project at hand! We invite you to test it as it is COMPLETELY functional. Of course our weaknesses are around the edges as we need some help regarding tokenization and fundraising but we think that this project has a great potential in becoming THE bridge between Solana and Helium. Probably a third integration with Arweave might be at hand, as data loads become bigger and Helium is looking at 5G integration. The impact regarding the Solana ecosystem is huge, as it merges the ideals of a Nasdaq-speed blockchain architecture with the enourmous infrastructure that the Helium Network has, with its more that 230,000 Longfi hotspots around the world and solves the woes that IoT normally has without a blockchain implementation. Adding to that, with our Swap platform we also bring liquidity between two growing blockchains that didn't had much in common beforehand.
 
-# Go to Market Strategy and Roadmap
+# Go to Market Strategy, Business Model and Roadmap
+
+The Hackathon is not over for us, as soon as public voting opens (Oct 18th) we will expand on our social networks (we have been doing that for some time now) and reach as far as we can with the project. that will set us a base to operate from and follow up with more development and further up our roadmap.  
+
+We plan on incorporating the same business model (at first) that Ubidots, AdafruitIO and other incumbents follow, with heavy inspiration also on how the Helium blockchain and how it manages its device subscription. Of course, every Decentralized model requires incentives and for that we have the OBOL token. Following projects like Planetwatch: https://www.planetwatch.io/ we can incorporate in a future version mining through sensors, this is where a third integration with Arweave (https://www.arweave.org/) makes sense, as the amount of data will increase and the load to be stored. In essence integreating Solana's speed, the Helium Network's infrastructure and Arweave's decentralized storage would bring forth an incredible project powered through sensor mining incentives.
+
+Before that our immediate roadmap is as follows:
+
+<img src="https://i.ibb.co/YNR2v2r/Roadmap-kp.png">
+
 
 # Technology Stack
 
