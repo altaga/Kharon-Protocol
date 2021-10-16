@@ -93,18 +93,41 @@ Now, this kind of application has already reached Several places and markets aro
 
 <img src="https://i.ibb.co/G0t39Wj/valid.png">
 
-Our team comes from a diverse background but we now have around 15 years of combined IoT development experience and are exploring the IoT plus blockchain space.
+## Second use case
+
+Cold storage asset tracking (thinking about vaccines primarily).
+
+COVID-19 hit developing countries very hard, but that creates necessities and thus, new markets. 
+In the last two years, Mexico lost one million cubic meters in its storage capacity focused on the cold chain, according to the 2020 GCCA Global Cold Storage Capacity Report.
+As a result of this decrease in total cold storage capacity, Mexico also lost capacity in m3 per urban inhabitant, from 0.152 in 2018 to 0.138 in 2020, below the world average of 0.15.
+
+This loss of cold chain storage in Mexico occurs at a time when the country is preparing for the handling and distribution of the COVID-19 vaccine -still in the testing phase-, while it has categorically ruled out most of the use of the vaccine developed by the pharmaceutical company Pfizer, as it does not have an infrastructure capable of supporting the need to preserve the product at -70 centigrade (deep freezing).
+
+Cold storage and thus, Cold transport and asset tracking is paramount for our "New normal", and even countries like the US and India that are leaders in that regard, have fall short of proper solutions.
+
+According to EY: "The great opportunities in the cold chain for organizations are: growth in capacities, incorporation of disruptive technologies, reducing costs, improving decision-making, ensuring regulatory compliance and staff training."
+
+A decentralized system that can oversee most of these problems and function to growth economics through a token, is an immense disruptor in this regard, we think Kharon can fill that gap.
+
+Again, our demo video for a Cold storage prototype:
+
+[<img src="https://raw.githubusercontent.com/altaga/SCUP-WWAC/master/Images/click-here-button.png" width=200>](https://youtu.be/FE08cTZfyiQ)
+
+Reference: https://www.ey.com/es_mx/consumer-products-retail/cadena-de-frio-en-mexico#:~:text=almacenamiento%20y%20transporte.-,2.,veces%20menor%20al%20top%20leader.
+
+ 
+# Obol Token economics
+
+
 
 
 # Market analysis
 
 Coming soon.....
- 
-# Obol Token economics
-
-Coming soon.....
 
 # Potential impact for the Solana ecosystem.
+
+The project is still in its early stages, but we already have an almost ready-to-launch project at hand! We invite you to test it as it is COMPLETELY functional. Of course our weaknesses are around the edges as we need some help regarding tokenization and fundraising but we think that this project has a great potential in becoming THE bridge between Solana and Helium. Probably a third integration with Arweave might be at hand, as data loads become bigger and Helium is looking at 5G integration. The impact regarding the Solana ecosystem is huge, as it merges the ideals of a Nasdaq-speed blockchain architecture with the enourmous infrastructure that the Helium Network has, with its more that 230,000 Longfi hotspots around the world and solves the woes that IoT normally has without a blockchain implementation. Adding to that, with our Swap platform we also bring liquidity between two growing blockchains that didn't had much in common beforehand.
 
 # Go to Market Strategy and Roadmap
 
@@ -153,6 +176,8 @@ From a long time ago!
 Helium IoT for Good contest Runner-up Agrohelium by Luis Eduardo Oliver:
 
 https://www.hackster.io/Edoliver/agrohelium-urban-agriculture-aiot-solution-d8fbf4
+
+Our team comes from a diverse background but we now have around 15 years of combined IoT development experience and are exploring the IoT plus blockchain space.
 
 
 # Acknowledgements and References
