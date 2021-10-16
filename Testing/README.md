@@ -12,9 +12,9 @@ Previous Requirements:
 - Have a LoRaWAN device which can connect to the Helium network (in the case of this tutorial it will be a Pycom Board).
 
 If you don't have a device or time at hand to go through this process we are running a couple devices at all times through our system to debug and test.
-Such as this ones:
+Such as these ones:
 
-<img src="https://i.ibb.co/QnFSZgC/device1.png">
+<img src="https://i.ibb.co/QnFSZgC/device1.png" width="200">
 
 <>
 
