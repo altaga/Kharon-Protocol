@@ -10,7 +10,7 @@ Previous Requirements:
 
 - A [Helium Console](https://console.helium.com/) account with some data credits to burn.
 - Have a LoRaWAN device which can connect to the Helium network (in the case of this tutorial it will be a Pycom Board).
-- A Phantom Wallet
+- A Phantom Wallet: https://phantom.app/
 
 If you don't have a device or time at hand to go through this process we are running a couple devices at all times through our system to debug and test.
 Such as these ones:
