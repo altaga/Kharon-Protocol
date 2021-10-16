@@ -22,12 +22,6 @@ This is our submission for the Ignition Solana Global Hackathon.
 
 ### To test the product follow this link (Over here Tech judges!):
 
-You have to have a Phantom wallet installed!
-
-https://phantom.app/
-
-https://kharonprotocol.com
-
 Go here also for some instructions:
 
 https://github.com/altaga/Kharon-Protocol/tree/main/Testing
