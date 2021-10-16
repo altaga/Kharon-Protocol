@@ -11,7 +11,17 @@ Previous Requirements:
 - A Helium Console account [Helium Console](https://console.helium.com/) with some data credits to burn.
 - Have a LoRaWAN device which can connect to the Helium network (in the case of this tutorial it will be a Pycom Board).
 
-If you don't have a device or 
+If you don't have a device or time at hand to go through this process we are running a couple devices at all times through our system to debug and test.
+Such as this ones:
+
+<img src="https://i.ibb.co/QnFSZgC/device1.png">
+
+<>
+
+Here are the credentials of one of them if you just need a quick check on the functionality
+
+Dev EUI: 6081F906D27BB9A7
+App EUI: 6081F98F4E3E1C48
 
 # Device Setup:
 
