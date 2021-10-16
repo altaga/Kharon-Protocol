@@ -16,11 +16,10 @@ Such as these ones:
 
 <img src="https://i.ibb.co/QnFSZgC/device1.png" width="200">
 
-<>
-
 Here are the credentials of one of them if you just need a quick check on the functionality
 
 Dev EUI: 6081F906D27BB9A7
+
 App EUI: 6081F98F4E3E1C48
 
 # Device Setup:
