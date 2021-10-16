@@ -102,9 +102,13 @@ Our team comes from a diverse background but we now have around 15 years of comb
 
 Coming soon.....
  
-# Token economics (OBOL)
+# Obol Token economics
 
 Coming soon.....
+
+# Potential impact for the Solana ecosystem.
+
+# Go to Market Strategy
 
 # Technology Stack
 
