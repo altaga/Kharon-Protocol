@@ -32,6 +32,10 @@ Go here also for some instructions:
 
 https://github.com/altaga/Kharon-Protocol/tree/main/Testing
 
+## Please watch out video demo of an IoT device going through the steps to join Kharon!
+
+[<img src="https://raw.githubusercontent.com/altaga/SCUP-WWAC/master/Images/click-here-button.png" width=200>](https://youtu.be/FE08cTZfyiQ)
+
 <hr>
 
 # Introduction and Problem Statement
