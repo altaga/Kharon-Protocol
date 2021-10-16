@@ -18,7 +18,7 @@ This is our submission for the Ignition Solana Global Hackathon.
 
 #### Click here to watch our demo video:
 
-[<img src="https://raw.githubusercontent.com/altaga/SCUP-WWAC/master/Images/click-here-button.png" width=200>](https://www.youtube.com/watch?v=FE08cTZfyiQ)
+[<img src="https://raw.githubusercontent.com/altaga/SCUP-WWAC/master/Images/click-here-button.png" width=200>](https://www.youtube.com/watch?v=wmbS8i05DD8)
 
 ### To test the product follow this link (Over here Tech judges!):
 
