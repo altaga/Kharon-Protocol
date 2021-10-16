@@ -116,10 +116,25 @@ Again, our demo video for a Cold storage prototype:
 Reference: https://www.ey.com/es_mx/consumer-products-retail/cadena-de-frio-en-mexico#:~:text=almacenamiento%20y%20transporte.-,2.,veces%20menor%20al%20top%20leader.
 
  
-# Obol Token economics
+# Obol Token 
+
+The OBOL token is the heart of the project as it will be the one that incentivizes the growing adoption of this network through sensors (that will be primarily based around asset tracking, see our Market analysis). It will bring forth Machine to Machine economies and bridge the gaps between HNT and the SOL token. We already created and tested the token and even itegrated it to the Phantom wallet. Phantom is the most widely used Solana wallet and through our Protocol we also created a bridge to swap these two assets through it. Here are some screens and transactions that have taken place:
 
 
 
+You can find OBOL here:
+
+https://explorer.solana.com/address/6XYRoRykEKjfdv94jgt4b9bkLgQfoTYjGcCx1WXAh7mm?cluster=devnet
+
+Or through this address:
+
+6XYRoRykEKjfdv94jgt4b9bkLgQfoTYjGcCx1WXAh7mm
+
+Of course we are pending merge to get our OBOL ticker, name and Symbol:
+
+<img src="https://i.ibb.co/BPptL0v/image.png">
+
+If you could please integrate it to your own Phantom wallet, we will be testing and sending some around in the coming days for several Proof of concepts.
 
 # Market analysis
 
