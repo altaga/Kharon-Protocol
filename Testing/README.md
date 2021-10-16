@@ -8,7 +8,7 @@ Welcome to the testing section of Kharon Protocol, in this section you can find 
 
 Previous Requirements:
 
-- A Helium Console account [Helium Console](https://console.helium.com/) with some data credits to burn.
+- A [Helium Console](https://console.helium.com/) account with some data credits to burn.
 - Have a LoRaWAN device which can connect to the Helium network (in the case of this tutorial it will be a Pycom Board).
 
 If you don't have a device or time at hand to go through this process we are running a couple devices at all times through our system to debug and test.
