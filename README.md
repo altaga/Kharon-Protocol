@@ -131,7 +131,29 @@ Coming soon.....
 - Phantom Wallet - WebPage Credentials Provider.
   - https://phantom.app/
 
+
+# Team
+
+#### 3 Engineers with experience developing IoT and hardware solutions. We have been working together now for 5 years since University.
+
+[<img src="https://img.shields.io/badge/Luis%20Eduardo-Arevalo%20Oliver-blue">](https://www.linkedin.com/in/luis-eduardo-arevalo-oliver-989703122/)
+
+[<img src="https://img.shields.io/badge/Victor%20Alonso-Altamirano%20Izquierdo-lightgrey">](https://www.linkedin.com/in/alejandro-s%C3%A1nchez-guti%C3%A9rrez-11105a157/)
+
+[<img src="https://img.shields.io/badge/Alejandro-Sanchez%20Gutierrez-red">](https://www.linkedin.com/in/victor-alonso-altamirano-izquierdo-311437137/)
+
 ## We have been testing our IoT bridge for 1 month now without interruption!!
+
+And yes, we also support the Helium Network!
+
+<img src="https://i.ibb.co/BV1rpJf/nebra.jpg">
+
+From a long time ago!
+
+Helium IoT for Good contest Runner-up Agrohelium by Luis Eduardo Oliver:
+
+https://www.hackster.io/Edoliver/agrohelium-urban-agriculture-aiot-solution-d8fbf4
+
 
 # Acknowledgements and References
 
