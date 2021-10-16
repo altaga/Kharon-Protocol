@@ -130,7 +130,7 @@ Or through this address:
 
 6XYRoRykEKjfdv94jgt4b9bkLgQfoTYjGcCx1WXAh7mm
 
-Of course we are pending merge to get our OBOL ticker, name and Symbol:
+Of course, we are pending merge to get our OBOL ticker, name and Symbol:
 
 <img src="https://i.ibb.co/BPptL0v/image.png">
 
