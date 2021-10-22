@@ -1,4 +1,7 @@
-It can take up to 1 minute to add a device as we are sending messages every 30 seconds.# Kharon-Protocol-Testing:
+It can take up to 1 minute to add a device as we are sending messages every 30 seconds.
+Disclaimer: October has been a heavy month for console updates on the Helium platform, devices could be down, but we are up for Zoom 1 on 1 testing for judges!
+
+# Kharon-Protocol-Testing:
 
 ## Please watch out video demo of an IoT device going through the steps to join Kharon!
 
