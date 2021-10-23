@@ -23,9 +23,9 @@ Such as these ones:
 
 Here are the credentials of one of them if you just need a quick check on the functionality
 
-Dev EUI: 6081F906D27BB9A7
+Dev EUI: FF80A252597BD5D6
 
-App EUI: 6081F98F4E3E1C48
+App EUI: 62737802A0F72A24
 
 Disclaimer: It can take up to 1 minute to add a device as we are sending messages every 30 seconds.
 
