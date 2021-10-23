@@ -21,6 +21,8 @@ Such as these ones:
 
 <img src="https://i.ibb.co/QnFSZgC/device1.png" width="200">
 
+If you happen to have one of this (ST Helium Developer Kit: st MB1296D) you can upload this code: https://github.com/altaga/Kharon-Protocol/tree/main/Testing/TESTINGHeliumdevkit
+
 Here are the credentials of one of them if you just need a quick check on the functionality
 
 Dev EUI: FF80A252597BD5D6
