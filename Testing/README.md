@@ -2,6 +2,8 @@
 
 Disclaimer: October has been a heavy month for console updates on the Helium platform, devices could be down, but we are up for Zoom 1 on 1 testing for judges!
 
+Update for 10/27/2021: We have been having intermitent server disconnects (403) by our cloud provider which is AWS. Switched to AWS europe. This is why we need to decentralize xD.
+
 # Kharon-Protocol-Testing:
 
 ## Please watch out video demo of an IoT device going through the steps to join Kharon!
