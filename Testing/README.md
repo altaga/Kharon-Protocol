@@ -4,6 +4,8 @@ Disclaimer: October has been a heavy month for console updates on the Helium pla
 
 Update for 10/27/2021: We have been having intermitent server disconnects (403) by our cloud provider which is AWS. Switched to AWS europe. This is why we need to decentralize xD. Everything is normal by now.
 
+Update for 11/17/2021: The Helium Network is down, we will update when it comes back up, the developers are working hard at it. For now our services are halted.
+
 # Kharon-Protocol-Testing:
 
 ## Please watch out video demo of an IoT device going through the steps to join Kharon!
