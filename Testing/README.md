@@ -1,4 +1,4 @@
-### It can take up to 1 minute to add a device as we are sending messages every 30 seconds.
+### It can take up to 1 minute to add a device as we are sending messages every 5 minutes.
 
 Disclaimer: October has been a heavy month for console updates on the Helium platform, devices could be down, but we are up for Zoom 1 on 1 testing for judges!
 
