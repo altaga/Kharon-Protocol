@@ -12,9 +12,9 @@ DHT dht(DHTPIN, DHTTYPE);
 
 #include "LoRaWAN.h"
 
-const char *devEui = "FF80A252597BD5D6";
-const char *appEui = "62737802A0F72A24";
-const char *appKey = "7F8A0E21A15A1A6D540188C9D9F927CF";
+const char *devEui = "your-deveui";
+const char *appEui = "your-appeui";
+const char *appKey = "your-appkey";
 
 // Max Payload 53 Bytes for DR 1
 //const uint8_t payload[] = "Kharon Protocol Testing Device";
