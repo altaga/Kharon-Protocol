@@ -33,6 +33,8 @@ https://github.com/altaga/Kharon-Protocol/tree/main/Testing
 
 <hr>
 
+### Integration with Avalanche and Chainlink oracles coming soon!
+
 # Introduction and Problem Statement
 
 IoT comes with several  use cases in different sectors, however, its wider application is caught sometimes behind security concerns over data storage or on the device itself. Will combining it with blockchain be the answer to all its woes? Our answer is yes, as the projects trying to tackle these problems surely reflect. But they all come with their set of drawbacks that must be tackled along the way.
