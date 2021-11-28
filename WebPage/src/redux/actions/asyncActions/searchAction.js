@@ -35,7 +35,7 @@ const search_action = (value) =>
                 pub_key: value,
             }
           }
-        Axios.get(`https://f4zlln365l.execute-api.us-east-1.amazonaws.com/check-devices-by-pubkey`,config) //${value} if you want insert value into URL 
+        Axios.get(`https://XXXXXX.execute-api.us-east-1.amazonaws.com/check-devices-by-pubkey`,config) //${value} if you want insert value into URL 
             .then(response =>{
                 dispatch(search_Request_Success(response.data));
             })

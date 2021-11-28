@@ -39,7 +39,7 @@ class Register extends Component {
     }
 
     addDevice() {
-        this.unirest('GET', 'https://f4zlln365l.execute-api.us-east-1.amazonaws.com/register-device')
+        this.unirest('GET', 'https://XXXXXX.execute-api.us-east-1.amazonaws.com/register-device')
             .headers({
                 'app_eui': this.state.appeui,
                 'dev_eui': this.state.deveui,

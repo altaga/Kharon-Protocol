@@ -32,7 +32,7 @@ class Devices extends Component {
     }
 
     checkLastMessage(app_eui, dev_eui, index) {
-        this.unirest('GET', 'https://f4zlln365l.execute-api.us-east-1.amazonaws.com/check-last-transaction-data-devdata')
+        this.unirest('GET', 'https://XXXXXX.execute-api.us-east-1.amazonaws.com/check-last-transaction-data-devdata')
             .headers({
                 'app_eui': app_eui,
                 'dev_eui': dev_eui

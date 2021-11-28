@@ -12,7 +12,7 @@ const app = express()
 const port = 8080
 
 const APIGATEWAY = "api.kharonprotocol.com"
-const APIGATEWAY2 = "f4zlln365l.execute-api.us-east-1.amazonaws.com"
+const APIGATEWAY2 = "xxxxxxxx.execute-api.us-east-1.amazonaws.com"
 
 function check(json) {
   try {
