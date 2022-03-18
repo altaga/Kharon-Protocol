@@ -29,9 +29,9 @@ If you happen to have one of this (ST Helium Developer Kit: st MB1296D)  and you
 
 Here are the credentials of one of them if you just need a quick check on the functionality on our platform:
 
-Dev EUI: FF80A252597BD5D6
-
 App EUI: 62737802A0F72A24
+
+Dev EUI: FF80A252597BD5D6
 
 Disclaimer: It can take up to 1 minute to add a device as we are sending messages every 30 seconds.
 
